@@ -1,0 +1,3 @@
+databaseChangeLogger:
+  - includeAll:
+      path: db/changelogger/changes/
